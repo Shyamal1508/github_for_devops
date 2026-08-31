@@ -1,0 +1,51 @@
+
+ 1450  git init
+ 1451  dir
+ 1452  git status
+ 1453  git add testing.py
+ 1454  git stgiatus
+ 1455  git rm --cache
+ 1456  git rm --cached testing.py
+ 1457  git status
+ 1458  git commit -m "added tested files"
+ 1459  git config --global user.name "Shyamal1508"
+ 1460  git commit -m "added tested files"
+ 1461  git status testing.py
+ 1462  git add testing.py
+ 1463  git status
+ 1464  git status testing.py
+ 1465  git commit -m "adding tested files"
+ 1466  git status
+ 1467  rm testing.py
+ 1468  ls
+ 1469  git status
+ 1470  git restore testing.py
+ 1471  git status
+ 1472  git status testing.py
+ 1473  history
+ 1474  git status
+ 1475  git status testing.py
+ 1476  git add git_commands.txt
+ 1477  git status
+ 1478  git commit -m "added git commands"
+ 1479  git remote add origin https://github.com/Shyamal1508/github_for_devops.git
+ 1480  git remote -v
+ 1481  git push -u origin main
+ 1482  git branch
+ 1483  git branch -M main
+ 1484  git push -u origin main
+ 1485  git branch -M main
+ 1486  git push -u origin main
+ 1487  git remote -v
+ 1489  git remote -v
+ 1490  git push origin master
+ 1491  git commit -m "Initial commit"
+ 1492  git branch -M main
+ 1493  echo "# github_for_devops" >> README.md
+ 1494  git add README.md
+ 1495  git commit -m "Initial commit"
+ 1496  git branch -M main
+ 1497  git push -u origin main
+ 1498  git push origin master
+ 1499  git push origin main
+git checkout -b update-commands
